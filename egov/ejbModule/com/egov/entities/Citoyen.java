@@ -13,7 +13,7 @@ import javax.persistence.*;
  *
  */
 @Entity
-@Table(name = "egov_citoyenss")
+@Table(name = "egov_citoyen")
 public class Citoyen implements Serializable {
 
 	   
